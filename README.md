@@ -19,8 +19,8 @@ Uruchamianie aplikacji: Za pomocą przycisku Start w Visual Studio lub konsoli p
 -4 pola tekstowe
 -przycisk Button wysyłający zapytanie do MySQL
 -tabelka z danymi importowana z Xamppa
-<img src="https://github.com/Bankowska/Dokumentacja_Egzamin1.py/blob/main/Zrzut%20ekranu%202024-12-05%20171326.png">
 
 ## 5. Kod źródłowy
-
+<img src="https://github.com/Bankowska/Dokumentacja_PrzedmiotyOceny/blob/main/kodzrodlowy.png">
 ## 6. Wynik działania aplikacji
+<img src="https://github.com/Bankowska/Dokumentacja_PrzedmiotyOceny/blob/main/toolsy.png">
